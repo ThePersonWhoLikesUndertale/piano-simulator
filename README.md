@@ -3,7 +3,7 @@
 Simulador de piano criado para o desafio da DIO
 
 ## Informações
-Piano com 16 teclas brancas e pretas
+Piano com 16 teclas, 8 brancas e 8 pretas
 
 ## Instruções
 Clique ou aperte a tecla correspondente no seu teclado para tocar
